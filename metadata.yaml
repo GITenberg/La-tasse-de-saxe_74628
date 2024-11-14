@@ -1,0 +1,32 @@
+_repo: La-tasse-de-saxe_74628
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bainville, Jacques
+    birthdate: 1879
+    deathdate: 1936
+    gutenberg_agent_id: '52467'
+    url: http://www.gutenberg.org/2009/agents/52467
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jacques_Bainville
+    - https://fr.wikipedia.org/wiki/Jacques_Bainville
+description: ''
+gutenberg_issued: '2024-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74628'
+language: fr
+pgterms:marc904: https://polona.pl/preview/63f2dfc8-4935-48df-8d27-81984bc5b5d2
+pgterms:marc905: 20240928031542bainville
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Polona digital library)
+publication_note: '  $aParis :$bBernard Grasset, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La tasse de saxe
+url: http://www.gutenberg.org/ebooks/74628
